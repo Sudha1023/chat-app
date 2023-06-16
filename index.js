@@ -83,4 +83,4 @@ const firebaseConfig = {
 
 
   const getUsers = db.ref('users');
-  console.log(getUsers);
+  console.log(getUsers);        
